@@ -1,1 +1,1 @@
-# Trex-game-pro38
+# trex-game
